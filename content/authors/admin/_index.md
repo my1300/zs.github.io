@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: 朱爽
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Shuang Zhu
 
 # Full name (for SEO)
 first_name: Shiung Wu
