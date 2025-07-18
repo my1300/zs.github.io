@@ -10,8 +10,6 @@ title: 朱爽
 <video width="560" height="315" controls>
   <source src="/videos/myvideo.mp4" type="video/mp4">
 </video>  
-
-接着写简介内容...
 # Name pronunciation (optional)
 name_pronunciation: Shuang Zhu
 
