@@ -1,7 +1,17 @@
 ---
 # Display name
 title: 朱爽
+---
+# YAML 配置部分不变
+---
 
+这是个人简介，插入本地视频：  
+
+<video width="560" height="315" controls>
+  <source src="/videos/myvideo.mp4" type="video/mp4">
+</video>  
+
+接着写简介内容...
 # Name pronunciation (optional)
 name_pronunciation: Shuang Zhu
 
