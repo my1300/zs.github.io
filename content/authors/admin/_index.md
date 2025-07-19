@@ -182,4 +182,4 @@ awards:
 ---
 <img src="/uploads/风景.jpg" alt="风景照片" width="400" >
 <img src="/uploads/照片.jpg" alt="照片照片" width="400" >
-
+<video src="/videos/wunianji.mp4" controls width="800"></video>
