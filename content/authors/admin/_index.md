@@ -182,6 +182,4 @@ awards:
 ---
 <img src="/uploads/风景.jpg" alt="风景照片" width="400" >
 <img src="/uploads/照片.jpg" alt="照片照片" width="400" >
-<video src="/videos/wunianji.mp4" controls width="800" autoplay muted loop poster="/images/video-cover.jpg">
-  你的浏览器不支持视频播放，请升级浏览器。
-</video>
+
